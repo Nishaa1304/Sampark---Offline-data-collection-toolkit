@@ -17,6 +17,7 @@ import SurveyDetail from './pages/SurveyDetail';
 import NewSurvey from './pages/NewSurvey';
 import Settings from './pages/Settings';
 import Users from './pages/Users';
+import Profile from './pages/Profile';
 import NotFound from './pages/NotFound';
 import OfflineDemo from './pages/OfflineDemo';
 
@@ -120,6 +121,14 @@ function AppRoutes() {
             element={
               <ProtectedRoute>
                 <Settings />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/profile"
+            element={
+              <ProtectedRoute>
+                <Profile />
               </ProtectedRoute>
             }
           />
