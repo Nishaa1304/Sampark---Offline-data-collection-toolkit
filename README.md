@@ -2,6 +2,18 @@
 
 **Sampark** is an offline-first web application designed for rural Panchayat survey data collection. It enables field workers to collect comprehensive village data even without internet connectivity, with automatic synchronization when online.
 
+## 🚀 Live Demo
+
+**Frontend:** [https://sampark-frontend-nu.vercel.app](https://sampark-frontend-nu.vercel.app)
+
+**Backend API:** [https://sampark-backend-ysmj.onrender.com](https://sampark-backend-ysmj.onrender.com)
+
+**API Documentation:** [https://sampark-backend-ysmj.onrender.com/docs](https://sampark-backend-ysmj.onrender.com/docs)
+
+**Test Credentials:**
+- Admin: `admin` / `admin123`
+- Staff: `ramesh.kumar` / `password123`
+
 ---
 
 ## 📋 Table of Contents
